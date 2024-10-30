@@ -22,3 +22,5 @@ Includes
 - Bump Maping
 
 Video:
+
+Bump Map Source: https://3dtextures.me/2024/10/28/stylized-stone-floor-010/
