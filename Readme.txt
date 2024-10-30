@@ -1,5 +1,5 @@
 Josh Roberts 100 927 988
-![alt text](https://github.com/shallowcatincdev/CG-Project/blob/main/Image.jpg?raw=true)
+
 
 
 Part 2:
