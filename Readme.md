@@ -1,4 +1,5 @@
 Josh Roberts 100 927 988
+<img src="[Image.jpg]" alt="image" width="200"/>
 
 Part 2:
 Simple Diffuse
