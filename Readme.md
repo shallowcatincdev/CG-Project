@@ -1,5 +1,5 @@
 Josh Roberts 100 927 988
-<img src="[drawing.jpg](https://github.com/shallowcatincdev/CG-Project/blob/main/Image.jpg)" alt="image" width="200"/>
+<img src="[https://github.com/shallowcatincdev/CG-Project/blob/main/Image.jpg]" alt="image" width="200"/>
 
 Part 2:
 Simple Diffuse
